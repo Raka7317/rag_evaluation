@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # RAG Evaluation & Regression Testing
 
 A production-oriented **RAG evaluation framework** that evaluates retrieval, generation, end-to-end pipeline quality, application behavior, safety, cost, latency, and reliability — then compares a candidate RAG change against a known-good baseline.
